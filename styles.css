@@ -110,4 +110,14 @@ body{
         flex-direction: column;
         gap: 10px;
     }
+    .about_container{
+        flex-direction: column;
+        gap: 2em;
+    }
+    .about_picture_container{
+        width: 90%;
+    }
+    .about_desc_container{
+        width: 90%;
+    }
 }
